@@ -1,0 +1,10 @@
+{
+  "name": "learn1",
+  "displayName": "Parvarish",
+  "expo": {
+    "name": "learn1",
+    "slug": "learn1",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
